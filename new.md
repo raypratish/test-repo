@@ -5,4 +5,4 @@ text etx
 *abc
 *def
 
-[Link](xlri.ac.in)
+[Link](http://xlri.ac.in)
